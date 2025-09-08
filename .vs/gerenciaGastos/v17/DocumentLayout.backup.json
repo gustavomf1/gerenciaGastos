@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB2BAD8-55D8-45E0-A90F-6CAAA90A368C}|gerenciaGastos\\gerenciaGastos.csproj|c:\\users\\gustavo\\source\\repos\\gerenciagastos\\gerenciagastos\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACB2BAD8-55D8-45E0-A90F-6CAAA90A368C}|gerenciaGastos\\gerenciaGastos.csproj|solutionrelative:gerenciagastos\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB2BAD8-55D8-45E0-A90F-6CAAA90A368C}|gerenciaGastos\\gerenciaGastos.csproj|c:\\users\\gustavo\\source\\repos\\gerenciagastos\\gerenciagastos\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACB2BAD8-55D8-45E0-A90F-6CAAA90A368C}|gerenciaGastos\\gerenciaGastos.csproj|solutionrelative:gerenciagastos\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CA4198-E825-4427-AAEE-3EF747622165}|InfraEstrutura\\InfraEstrutura.csproj|c:\\users\\gustavo\\source\\repos\\gerenciagastos\\infraestrutura\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CA4198-E825-4427-AAEE-3EF747622165}|InfraEstrutura\\InfraEstrutura.csproj|solutionrelative:infraestrutura\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9144F2C6-E2BA-4111-BA97-E8B8BD5C69E5}|Service\\Service.csproj|c:\\users\\gustavo\\source\\repos\\gerenciagastos\\service\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9144F2C6-E2BA-4111-BA97-E8B8BD5C69E5}|Service\\Service.csproj|solutionrelative:service\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9144F2C6-E2BA-4111-BA97-E8B8BD5C69E5}|Service\\Service.csproj|c:\\users\\gustavo\\source\\repos\\gerenciagastos\\service\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9144F2C6-E2BA-4111-BA97-E8B8BD5C69E5}|Service\\Service.csproj|solutionrelative:service\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB2BAD8-55D8-45E0-A90F-6CAAA90A368C}|gerenciaGastos\\gerenciaGastos.csproj|c:\\users\\gustavo\\source\\repos\\gerenciagastos\\gerenciagastos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACB2BAD8-55D8-45E0-A90F-6CAAA90A368C}|gerenciaGastos\\gerenciaGastos.csproj|solutionrelative:gerenciagastos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CA4198-E825-4427-AAEE-3EF747622165}|InfraEstrutura\\InfraEstrutura.csproj|c:\\users\\gustavo\\source\\repos\\gerenciagastos\\infraestrutura\\repositorio\\categoriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CA4198-E825-4427-AAEE-3EF747622165}|InfraEstrutura\\InfraEstrutura.csproj|solutionrelative:infraestrutura\\repositorio\\categoriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB2BAD8-55D8-45E0-A90F-6CAAA90A368C}|gerenciaGastos\\gerenciaGastos.csproj|c:\\users\\gustavo\\source\\repos\\gerenciagastos\\gerenciagastos\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACB2BAD8-55D8-45E0-A90F-6CAAA90A368C}|gerenciaGastos\\gerenciaGastos.csproj|solutionrelative:gerenciagastos\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F7F07A-EAD7-494D-9BFB-B3161507399B}|Dominio\\Dominio.csproj|c:\\users\\gustavo\\source\\repos\\gerenciagastos\\dominio\\dtos\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F7F07A-EAD7-494D-9BFB-B3161507399B}|Dominio\\Dominio.csproj|solutionrelative:dominio\\dtos\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F7F07A-EAD7-494D-9BFB-B3161507399B}|Dominio\\Dominio.csproj|c:\\users\\gustavo\\source\\repos\\gerenciagastos\\dominio\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F7F07A-EAD7-494D-9BFB-B3161507399B}|Dominio\\Dominio.csproj|solutionrelative:dominio\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F7F07A-EAD7-494D-9BFB-B3161507399B}|Dominio\\Dominio.csproj|c:\\users\\gustavo\\source\\repos\\gerenciagastos\\dominio\\entidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F7F07A-EAD7-494D-9BFB-B3161507399B}|Dominio\\Dominio.csproj|solutionrelative:dominio\\entidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8088A66-0CF9-4562-96A4-630190FD489B}|Interface\\Interface.csproj|c:\\users\\gustavo\\source\\repos\\gerenciagastos\\interface\\service\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8088A66-0CF9-4562-96A4-630190FD489B}|Interface\\Interface.csproj|solutionrelative:interface\\service\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8088A66-0CF9-4562-96A4-630190FD489B}|Interface\\Interface.csproj|c:\\users\\gustavo\\source\\repos\\gerenciagastos\\interface\\service\\icategoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8088A66-0CF9-4562-96A4-630190FD489B}|Interface\\Interface.csproj|solutionrelative:interface\\service\\icategoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F7F07A-EAD7-494D-9BFB-B3161507399B}|Dominio\\Dominio.csproj|c:\\users\\gustavo\\source\\repos\\gerenciagastos\\dominio\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F7F07A-EAD7-494D-9BFB-B3161507399B}|Dominio\\Dominio.csproj|solutionrelative:dominio\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8088A66-0CF9-4562-96A4-630190FD489B}|Interface\\Interface.csproj|c:\\users\\gustavo\\source\\repos\\gerenciagastos\\interface\\repositorio\\iusuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8088A66-0CF9-4562-96A4-630190FD489B}|Interface\\Interface.csproj|solutionrelative:interface\\repositorio\\iusuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8088A66-0CF9-4562-96A4-630190FD489B}|Interface\\Interface.csproj|c:\\users\\gustavo\\source\\repos\\gerenciagastos\\interface\\repositorio\\icategoriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8088A66-0CF9-4562-96A4-630190FD489B}|Interface\\Interface.csproj|solutionrelative:interface\\repositorio\\icategoriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F7F07A-EAD7-494D-9BFB-B3161507399B}|Dominio\\Dominio.csproj|c:\\users\\gustavo\\source\\repos\\gerenciagastos\\dominio\\entidades\\orcamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F7F07A-EAD7-494D-9BFB-B3161507399B}|Dominio\\Dominio.csproj|solutionrelative:dominio\\entidades\\orcamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F7F07A-EAD7-494D-9BFB-B3161507399B}|Dominio\\Dominio.csproj|c:\\users\\gustavo\\source\\repos\\gerenciagastos\\dominio\\entidades\\transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F7F07A-EAD7-494D-9BFB-B3161507399B}|Dominio\\Dominio.csproj|solutionrelative:dominio\\entidades\\transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F7F07A-EAD7-494D-9BFB-B3161507399B}|Dominio\\Dominio.csproj|c:\\users\\gustavo\\source\\repos\\gerenciagastos\\dominio\\enum\\tipotransacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F7F07A-EAD7-494D-9BFB-B3161507399B}|Dominio\\Dominio.csproj|solutionrelative:dominio\\enum\\tipotransacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\InfraEstrutura\\Migrations\\20250908131214_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InfraEstrutura\\Migrations\\20250908131214_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CA4198-E825-4427-AAEE-3EF747622165}|InfraEstrutura\\InfraEstrutura.csproj|c:\\users\\gustavo\\source\\repos\\gerenciagastos\\infraestrutura\\data\\gastoscontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CA4198-E825-4427-AAEE-3EF747622165}|InfraEstrutura\\InfraEstrutura.csproj|solutionrelative:infraestrutura\\data\\gastoscontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\gerenciaGastos\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "gerenciaGastos\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\gerenciaGastos\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "gerenciaGastos\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T14:12:24.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\Service\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Service\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\Service\\UsuarioService.cs*",
+              "RelativeToolTip": "Service\\UsuarioService.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T14:09:30.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoriaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\InfraEstrutura\\Repositorio\\CategoriaRepositorio.cs",
+              "RelativeDocumentMoniker": "InfraEstrutura\\Repositorio\\CategoriaRepositorio.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\InfraEstrutura\\Repositorio\\CategoriaRepositorio.cs",
+              "RelativeToolTip": "InfraEstrutura\\Repositorio\\CategoriaRepositorio.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T14:06:52.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\InfraEstrutura\\Repositorio\\UsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "InfraEstrutura\\Repositorio\\UsuarioRepositorio.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\InfraEstrutura\\Repositorio\\UsuarioRepositorio.cs",
+              "RelativeToolTip": "InfraEstrutura\\Repositorio\\UsuarioRepositorio.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T14:06:45.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\Dominio\\Dtos\\UsuarioDto.cs",
+              "RelativeDocumentMoniker": "Dominio\\Dtos\\UsuarioDto.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\Dominio\\Dtos\\UsuarioDto.cs",
+              "RelativeToolTip": "Dominio\\Dtos\\UsuarioDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T13:58:47.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoriaDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\Dominio\\Dtos\\CategoriaDto.cs",
+              "RelativeDocumentMoniker": "Dominio\\Dtos\\CategoriaDto.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\Dominio\\Dtos\\CategoriaDto.cs",
+              "RelativeToolTip": "Dominio\\Dtos\\CategoriaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T13:14:42.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GastosContexto.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\InfraEstrutura\\Data\\GastosContexto.cs",
+              "RelativeDocumentMoniker": "InfraEstrutura\\Data\\GastosContexto.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\InfraEstrutura\\Data\\GastosContexto.cs",
+              "RelativeToolTip": "InfraEstrutura\\Data\\GastosContexto.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAmwC4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T13:10:24.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\gerenciaGastos\\Program.cs",
+              "RelativeDocumentMoniker": "gerenciaGastos\\Program.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\gerenciaGastos\\Program.cs",
+              "RelativeToolTip": "gerenciaGastos\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T13:09:12.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\Dominio\\Entidades\\Usuario.cs",
+              "RelativeDocumentMoniker": "Dominio\\Entidades\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\Dominio\\Entidades\\Usuario.cs",
+              "RelativeToolTip": "Dominio\\Entidades\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T13:08:19.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\gerenciaGastos\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "gerenciaGastos\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\gerenciaGastos\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "gerenciaGastos\\Controllers\\CategoriaController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwCgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T13:03:11.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUsuarioRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\Interface\\Repositorio\\IUsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "Interface\\Repositorio\\IUsuarioRepositorio.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\Interface\\Repositorio\\IUsuarioRepositorio.cs",
+              "RelativeToolTip": "Interface\\Repositorio\\IUsuarioRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T13:56:43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriaService.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\Service\\CategoriaService.cs",
+              "RelativeDocumentMoniker": "Service\\CategoriaService.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\Service\\CategoriaService.cs",
+              "RelativeToolTip": "Service\\CategoriaService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T13:03:44.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICategoriaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\Interface\\Repositorio\\ICategoriaRepositorio.cs",
+              "RelativeDocumentMoniker": "Interface\\Repositorio\\ICategoriaRepositorio.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\Interface\\Repositorio\\ICategoriaRepositorio.cs",
+              "RelativeToolTip": "Interface\\Repositorio\\ICategoriaRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T13:56:56.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\gerenciaGastos\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "gerenciaGastos\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\gerenciaGastos\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "gerenciaGastos\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T12:48:39.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICategoriaService.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\Interface\\Service\\ICategoriaService.cs",
+              "RelativeDocumentMoniker": "Interface\\Service\\ICategoriaService.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\Interface\\Service\\ICategoriaService.cs",
+              "RelativeToolTip": "Interface\\Service\\ICategoriaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T13:57:55.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\Dominio\\Entidades\\Categoria.cs",
+              "RelativeDocumentMoniker": "Dominio\\Entidades\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\Dominio\\Entidades\\Categoria.cs",
+              "RelativeToolTip": "Dominio\\Entidades\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T13:06:10.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\Interface\\Service\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "Interface\\Service\\IUsuarioService.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\Interface\\Service\\IUsuarioService.cs",
+              "RelativeToolTip": "Interface\\Service\\IUsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T13:58:23.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250908131214_first.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\InfraEstrutura\\Migrations\\20250908131214_first.cs",
+              "RelativeDocumentMoniker": "InfraEstrutura\\Migrations\\20250908131214_first.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\InfraEstrutura\\Migrations\\20250908131214_first.cs",
+              "RelativeToolTip": "InfraEstrutura\\Migrations\\20250908131214_first.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T13:12:14.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Orcamento.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\Dominio\\Entidades\\Orcamento.cs",
+              "RelativeDocumentMoniker": "Dominio\\Entidades\\Orcamento.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\Dominio\\Entidades\\Orcamento.cs",
+              "RelativeToolTip": "Dominio\\Entidades\\Orcamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T13:08:12.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Transacao.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\Dominio\\Entidades\\Transacao.cs",
+              "RelativeDocumentMoniker": "Dominio\\Entidades\\Transacao.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\Dominio\\Entidades\\Transacao.cs",
+              "RelativeToolTip": "Dominio\\Entidades\\Transacao.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T13:06:00.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TipoTransacao.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\Dominio\\Enum\\TipoTransacao.cs",
+              "RelativeDocumentMoniker": "Dominio\\Enum\\TipoTransacao.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\Dominio\\Enum\\TipoTransacao.cs",
+              "RelativeToolTip": "Dominio\\Enum\\TipoTransacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T17:25:06.997Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
