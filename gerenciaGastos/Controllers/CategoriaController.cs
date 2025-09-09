@@ -1,29 +1,43 @@
 ﻿using Dominio.Dtos;
+using FluentValidation;
 using Interface.Service;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+
 
 namespace gerenciaGastos.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class CategoriaController : ControllerBase
     {
         private ICategoriaService service;
+        private IValidator<CategoriaDto> validator;
 
-        public CategoriaController(ICategoriaService
-            service)
+        public CategoriaController(ICategoriaService service, IValidator<CategoriaDto> validator)
         {
             this.service = service;
+            this.validator = validator;
         }
 
         [HttpPost]
         public async Task<ActionResult<CategoriaDto>>
             addAsync(CategoriaDto categoriaDto)
         {
+            var result = validator.Validate(categoriaDto);
+            if (result.IsValid)
+            {
+                var dto = await this.service.addAsync(categoriaDto);
+                return Ok(dto);
+            }
+            else
+            {
+                return BadRequest(result);
+            }
 
-            var dto = await this.service.addAsync(categoriaDto);
-            return Ok(dto);
+            
 
         }
 
@@ -70,8 +84,17 @@ namespace gerenciaGastos.Controllers
         public async Task<ActionResult>
             updateAsync(CategoriaDto cat)
         {
-            await this.service.updateAsync(cat);
-            return NoContent();
+            var result = validator.Validate(cat);
+            if (result.IsValid)
+            {
+                await this.service.updateAsync(cat);
+                return NoContent();
+            }
+            else
+            {
+                return BadRequest(result);
+            }
+            
 
         }
     }

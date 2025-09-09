@@ -27,19 +27,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Gustavo\\.nuget\\packages\\": {}
+    "C:\\Users\\gustavo-franca\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\Interface\\Interface.csproj",
+      "projectUniqueName": "C:\\Users\\gustavo-franca\\Documents\\gerenciaGastos\\gerenciaGastos\\Interface\\Interface.csproj",
       "projectName": "Interface",
-      "projectPath": "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\Interface\\Interface.csproj",
-      "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\Interface\\obj\\",
+      "projectPath": "C:\\Users\\gustavo-franca\\Documents\\gerenciaGastos\\gerenciaGastos\\Interface\\Interface.csproj",
+      "packagesPath": "C:\\Users\\gustavo-franca\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gustavo-franca\\Documents\\gerenciaGastos\\gerenciaGastos\\Interface\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Gustavo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gustavo-franca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -54,8 +61,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\Dominio\\Dominio.csproj": {
-              "projectPath": "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\Dominio\\Dominio.csproj"
+            "C:\\Users\\gustavo-franca\\Documents\\gerenciaGastos\\gerenciaGastos\\Dominio\\Dominio.csproj": {
+              "projectPath": "C:\\Users\\gustavo-franca\\Documents\\gerenciaGastos\\gerenciaGastos\\Dominio\\Dominio.csproj"
             }
           }
         }
@@ -64,11 +71,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -90,7 +92,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
