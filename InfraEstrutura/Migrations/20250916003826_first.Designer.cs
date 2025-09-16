@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace InfraEstrutura.Migrations
 {
     [DbContext(typeof(GastosContexto))]
-    [Migration("20250908234015_first")]
+    [Migration("20250916003826_first")]
     partial class first
     {
         /// <inheritdoc />
@@ -60,8 +60,15 @@ namespace InfraEstrutura.Migrations
                     b.Property<int>("Mes")
                         .HasColumnType("int");
 
+                    b.Property<string>("Titulo")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<int>("UsuarioId")
                         .HasColumnType("int");
+
+                    b.Property<decimal>("ValorAtual")
+                        .HasColumnType("decimal(18,2)");
 
                     b.Property<decimal>("ValorLimite")
                         .HasColumnType("decimal(18,2)");

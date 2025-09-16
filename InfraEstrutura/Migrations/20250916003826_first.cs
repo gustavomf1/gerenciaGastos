@@ -47,8 +47,10 @@ namespace InfraEstrutura.Migrations
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
+                    Titulo = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     UsuarioId = table.Column<int>(type: "int", nullable: false),
                     ValorLimite = table.Column<decimal>(type: "decimal(18,2)", nullable: false),
+                    ValorAtual = table.Column<decimal>(type: "decimal(18,2)", nullable: false),
                     Mes = table.Column<int>(type: "int", nullable: false),
                     Ano = table.Column<int>(type: "int", nullable: false)
                 },

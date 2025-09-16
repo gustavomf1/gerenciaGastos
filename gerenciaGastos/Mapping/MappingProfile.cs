@@ -10,6 +10,8 @@ namespace gerenciaGastos.Mapping
                 .ReverseMap();
             CreateMap<Usuario, UsuarioDto>()
                 .ReverseMap();
+            CreateMap<Orcamento, OrcamentoDto>() 
+                .ReverseMap();
         }
     }
 }

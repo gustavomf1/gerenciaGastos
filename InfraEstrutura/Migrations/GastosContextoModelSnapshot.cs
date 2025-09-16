@@ -57,8 +57,15 @@ namespace InfraEstrutura.Migrations
                     b.Property<int>("Mes")
                         .HasColumnType("int");
 
+                    b.Property<string>("Titulo")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<int>("UsuarioId")
                         .HasColumnType("int");
+
+                    b.Property<decimal>("ValorAtual")
+                        .HasColumnType("decimal(18,2)");
 
                     b.Property<decimal>("ValorLimite")
                         .HasColumnType("decimal(18,2)");

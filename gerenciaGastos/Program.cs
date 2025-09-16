@@ -78,15 +78,17 @@ builder.Services.AddAutoMapper(
 
 builder.Services.AddScoped<ICategoriaRepositorio, CategoriaRepositorio>();
 builder.Services.AddScoped<ICategoriaService, CategoriaService>();
-
+builder.Services.AddScoped<IOrcamentoService, OrcamentoService>();
+builder.Services.AddScoped<IOrcamentoRepositorio,  OrcamentoRepositorio>();
 builder.Services.AddScoped<IUsuarioRepositorio, UsuarioRepositorio>();
 builder.Services.AddScoped<IUsuarioService, UsuarioService>();
 
 builder.Services.AddScoped<IValidator<CategoriaDto>, CategoriaValidation>();
+builder.Services.AddScoped<IValidator<OrcamentoDto>, OrcamentoValidation>();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
