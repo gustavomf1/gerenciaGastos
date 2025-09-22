@@ -82,9 +82,12 @@ builder.Services.AddScoped<IOrcamentoService, OrcamentoService>();
 builder.Services.AddScoped<IOrcamentoRepositorio,  OrcamentoRepositorio>();
 builder.Services.AddScoped<IUsuarioRepositorio, UsuarioRepositorio>();
 builder.Services.AddScoped<IUsuarioService, UsuarioService>();
+builder.Services.AddScoped<ITransacaoRepositorio, TransacaoRepositorio>();
+builder.Services.AddScoped<ITransacaoService, TransacaoService>();
 
 builder.Services.AddScoped<IValidator<CategoriaDto>, CategoriaValidation>();
 builder.Services.AddScoped<IValidator<OrcamentoDto>, OrcamentoValidation>();
+builder.Services.AddScoped<IValidator<TransacaoCreateDto>, TransacaoValidation>();
 
 var app = builder.Build();
 

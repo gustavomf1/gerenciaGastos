@@ -33,3 +33,21 @@ C:\Users\gustavo-franca\Documents\gerenciaGastos\gerenciaGastos\Service\obj\Debu
 C:\Users\gustavo-franca\Documents\gerenciaGastos\gerenciaGastos\Service\obj\Debug\net8.0\refint\Service.dll
 C:\Users\gustavo-franca\Documents\gerenciaGastos\gerenciaGastos\Service\obj\Debug\net8.0\Service.pdb
 C:\Users\gustavo-franca\Documents\gerenciaGastos\gerenciaGastos\Service\obj\Debug\net8.0\ref\Service.dll
+C:\Users\Gustavo\Documents\PROJETO GASTOS\gerenciaGastos\Service\bin\Debug\net8.0\Service.deps.json
+C:\Users\Gustavo\Documents\PROJETO GASTOS\gerenciaGastos\Service\bin\Debug\net8.0\Service.dll
+C:\Users\Gustavo\Documents\PROJETO GASTOS\gerenciaGastos\Service\bin\Debug\net8.0\Service.pdb
+C:\Users\Gustavo\Documents\PROJETO GASTOS\gerenciaGastos\Service\bin\Debug\net8.0\Dominio.dll
+C:\Users\Gustavo\Documents\PROJETO GASTOS\gerenciaGastos\Service\bin\Debug\net8.0\Interface.dll
+C:\Users\Gustavo\Documents\PROJETO GASTOS\gerenciaGastos\Service\bin\Debug\net8.0\Interface.pdb
+C:\Users\Gustavo\Documents\PROJETO GASTOS\gerenciaGastos\Service\bin\Debug\net8.0\Dominio.pdb
+C:\Users\Gustavo\Documents\PROJETO GASTOS\gerenciaGastos\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Documents\PROJETO GASTOS\gerenciaGastos\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Documents\PROJETO GASTOS\gerenciaGastos\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Documents\PROJETO GASTOS\gerenciaGastos\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+C:\Users\Gustavo\Documents\PROJETO GASTOS\gerenciaGastos\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Documents\PROJETO GASTOS\gerenciaGastos\Service\obj\Debug\net8.0\Service.sourcelink.json
+C:\Users\Gustavo\Documents\PROJETO GASTOS\gerenciaGastos\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+C:\Users\Gustavo\Documents\PROJETO GASTOS\gerenciaGastos\Service\obj\Debug\net8.0\Service.dll
+C:\Users\Gustavo\Documents\PROJETO GASTOS\gerenciaGastos\Service\obj\Debug\net8.0\refint\Service.dll
+C:\Users\Gustavo\Documents\PROJETO GASTOS\gerenciaGastos\Service\obj\Debug\net8.0\Service.pdb
+C:\Users\Gustavo\Documents\PROJETO GASTOS\gerenciaGastos\Service\obj\Debug\net8.0\ref\Service.dll
