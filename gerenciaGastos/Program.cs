@@ -42,6 +42,19 @@ builder.Services.AddSwaggerGen(c =>
     });
 });
 
+// <-- ADICIONADO AQUI (Definição da Política de CORS)
+var myPolicy = "AllowReactApp";
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy(name: myPolicy,
+                      policy =>
+                      {
+                          policy.WithOrigins("http://localhost:3000") // A URL do seu frontend
+                                .AllowAnyHeader()
+                                .AllowAnyMethod();
+                      });
+});
+// --- Fim da adição de CORS ---
 
 
 builder.Services.AddAuthentication(options =>
@@ -61,7 +74,7 @@ builder.Services.AddAuthentication(options =>
                         ValidIssuer = builder.Configuration["Jwt:Issuer"],
                         ValidAudience = builder.Configuration["Jwt:Audience"],
                         IssuerSigningKey = new SymmetricSecurityKey
-                      (Encoding.UTF8.GetBytes(builder.Configuration["Jwt:Key"]))
+                        (Encoding.UTF8.GetBytes(builder.Configuration["Jwt:Key"]))
                     };
                 });
 builder.Services.AddSingleton<IConfiguration>(builder.Configuration);
@@ -79,7 +92,7 @@ builder.Services.AddAutoMapper(
 builder.Services.AddScoped<ICategoriaRepositorio, CategoriaRepositorio>();
 builder.Services.AddScoped<ICategoriaService, CategoriaService>();
 builder.Services.AddScoped<IOrcamentoService, OrcamentoService>();
-builder.Services.AddScoped<IOrcamentoRepositorio,  OrcamentoRepositorio>();
+builder.Services.AddScoped<IOrcamentoRepositorio, OrcamentoRepositorio>();
 builder.Services.AddScoped<IUsuarioRepositorio, UsuarioRepositorio>();
 builder.Services.AddScoped<IUsuarioService, UsuarioService>();
 builder.Services.AddScoped<ITransacaoRepositorio, TransacaoRepositorio>();
@@ -99,6 +112,12 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+// <-- ADICIONADO AQUI (Ativação do Middleware de CORS)
+// Esta linha deve vir ANTES de UseAuthentication e UseAuthorization
+app.UseCors(myPolicy);
+// --- Fim da ativação de CORS ---
+
 app.UseAuthentication();
 app.UseAuthorization();
 app.MapControllers();

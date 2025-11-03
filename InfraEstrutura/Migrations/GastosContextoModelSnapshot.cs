@@ -163,13 +163,13 @@ namespace InfraEstrutura.Migrations
                     b.HasOne("Dominio.Entidades.Categoria", "Categoria")
                         .WithMany("Transacoes")
                         .HasForeignKey("CategoriaId")
-                        .OnDelete(DeleteBehavior.Restrict)
+                        .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.HasOne("Dominio.Entidades.Orcamento", "Orcamento")
                         .WithMany("Transacoes")
                         .HasForeignKey("OrcamentoId")
-                        .OnDelete(DeleteBehavior.Restrict);
+                        .OnDelete(DeleteBehavior.Cascade);
 
                     b.HasOne("Dominio.Entidades.Usuario", "Usuario")
                         .WithMany("Transacoes")

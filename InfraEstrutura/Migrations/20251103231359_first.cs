@@ -87,13 +87,13 @@ namespace InfraEstrutura.Migrations
                         column: x => x.CategoriaId,
                         principalTable: "Categorias",
                         principalColumn: "Id",
-                        onDelete: ReferentialAction.Restrict);
+                        onDelete: ReferentialAction.Cascade);
                     table.ForeignKey(
                         name: "FK_Transacoes_Orcamentos_OrcamentoId",
                         column: x => x.OrcamentoId,
                         principalTable: "Orcamentos",
                         principalColumn: "Id",
-                        onDelete: ReferentialAction.Restrict);
+                        onDelete: ReferentialAction.Cascade);
                     table.ForeignKey(
                         name: "FK_Transacoes_Usuarios_UsuarioId",
                         column: x => x.UsuarioId,

@@ -45,3 +45,19 @@ C:\Users\Gustavo\Documents\PROJETO GASTOS\gerenciaGastos\Interface\obj\Debug\net
 C:\Users\Gustavo\Documents\PROJETO GASTOS\gerenciaGastos\Interface\obj\Debug\net8.0\refint\Interface.dll
 C:\Users\Gustavo\Documents\PROJETO GASTOS\gerenciaGastos\Interface\obj\Debug\net8.0\Interface.pdb
 C:\Users\Gustavo\Documents\PROJETO GASTOS\gerenciaGastos\Interface\obj\Debug\net8.0\ref\Interface.dll
+C:\Users\gustavo-franca\Documents\gerenciaGastos\Interface\bin\Debug\net8.0\Interface.deps.json
+C:\Users\gustavo-franca\Documents\gerenciaGastos\Interface\bin\Debug\net8.0\Interface.dll
+C:\Users\gustavo-franca\Documents\gerenciaGastos\Interface\bin\Debug\net8.0\Interface.pdb
+C:\Users\gustavo-franca\Documents\gerenciaGastos\Interface\bin\Debug\net8.0\Dominio.dll
+C:\Users\gustavo-franca\Documents\gerenciaGastos\Interface\bin\Debug\net8.0\Dominio.pdb
+C:\Users\gustavo-franca\Documents\gerenciaGastos\Interface\obj\Debug\net8.0\Interface.csproj.AssemblyReference.cache
+C:\Users\gustavo-franca\Documents\gerenciaGastos\Interface\obj\Debug\net8.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo-franca\Documents\gerenciaGastos\Interface\obj\Debug\net8.0\Interface.AssemblyInfoInputs.cache
+C:\Users\gustavo-franca\Documents\gerenciaGastos\Interface\obj\Debug\net8.0\Interface.AssemblyInfo.cs
+C:\Users\gustavo-franca\Documents\gerenciaGastos\Interface\obj\Debug\net8.0\Interface.csproj.CoreCompileInputs.cache
+C:\Users\gustavo-franca\Documents\gerenciaGastos\Interface\obj\Debug\net8.0\Interface.sourcelink.json
+C:\Users\gustavo-franca\Documents\gerenciaGastos\Interface\obj\Debug\net8.0\Interface.csproj.CopyComplete
+C:\Users\gustavo-franca\Documents\gerenciaGastos\Interface\obj\Debug\net8.0\Interface.dll
+C:\Users\gustavo-franca\Documents\gerenciaGastos\Interface\obj\Debug\net8.0\refint\Interface.dll
+C:\Users\gustavo-franca\Documents\gerenciaGastos\Interface\obj\Debug\net8.0\Interface.pdb
+C:\Users\gustavo-franca\Documents\gerenciaGastos\Interface\obj\Debug\net8.0\ref\Interface.dll

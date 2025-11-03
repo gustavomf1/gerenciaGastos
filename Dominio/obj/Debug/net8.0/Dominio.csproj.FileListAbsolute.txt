@@ -33,3 +33,15 @@ C:\Users\Gustavo\Documents\PROJETO GASTOS\gerenciaGastos\Dominio\obj\Debug\net8.
 C:\Users\Gustavo\Documents\PROJETO GASTOS\gerenciaGastos\Dominio\obj\Debug\net8.0\refint\Dominio.dll
 C:\Users\Gustavo\Documents\PROJETO GASTOS\gerenciaGastos\Dominio\obj\Debug\net8.0\Dominio.pdb
 C:\Users\Gustavo\Documents\PROJETO GASTOS\gerenciaGastos\Dominio\obj\Debug\net8.0\ref\Dominio.dll
+C:\Users\gustavo-franca\Documents\gerenciaGastos\Dominio\bin\Debug\net8.0\Dominio.deps.json
+C:\Users\gustavo-franca\Documents\gerenciaGastos\Dominio\bin\Debug\net8.0\Dominio.dll
+C:\Users\gustavo-franca\Documents\gerenciaGastos\Dominio\bin\Debug\net8.0\Dominio.pdb
+C:\Users\gustavo-franca\Documents\gerenciaGastos\Dominio\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo-franca\Documents\gerenciaGastos\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\gustavo-franca\Documents\gerenciaGastos\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Users\gustavo-franca\Documents\gerenciaGastos\Dominio\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\gustavo-franca\Documents\gerenciaGastos\Dominio\obj\Debug\net8.0\Dominio.sourcelink.json
+C:\Users\gustavo-franca\Documents\gerenciaGastos\Dominio\obj\Debug\net8.0\Dominio.dll
+C:\Users\gustavo-franca\Documents\gerenciaGastos\Dominio\obj\Debug\net8.0\refint\Dominio.dll
+C:\Users\gustavo-franca\Documents\gerenciaGastos\Dominio\obj\Debug\net8.0\Dominio.pdb
+C:\Users\gustavo-franca\Documents\gerenciaGastos\Dominio\obj\Debug\net8.0\ref\Dominio.dll

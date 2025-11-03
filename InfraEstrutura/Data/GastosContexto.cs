@@ -42,14 +42,13 @@ namespace InfraEstrutura.Data
                 .HasMany(c => c.Transacoes)
                 .WithOne(t => t.Categoria)
                 .HasForeignKey(t => t.CategoriaId)
-                .OnDelete(DeleteBehavior.Restrict);
+                .OnDelete(DeleteBehavior.Cascade);
 
-            // Orcamento -> Transacoes (1:N)
             modelBuilder.Entity<Orcamento>()
                 .HasMany(o => o.Transacoes)
-                .WithOne(t => t.Orcamento) // Transacao deve ter OrcamentoId e Orcamento
+                .WithOne(t => t.Orcamento)
                 .HasForeignKey(t => t.OrcamentoId)
-                .OnDelete(DeleteBehavior.Restrict);
+                .OnDelete(DeleteBehavior.Cascade);
 
             // Configurações extras
             modelBuilder.Entity<Transacao>()

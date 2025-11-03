@@ -680,10 +680,7 @@
       },
       "Dominio/1.0.0": {
         "runtime": {
-          "Dominio.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Dominio.dll": {}
         }
       },
       "InfraEstrutura/1.0.0": {
@@ -694,10 +691,7 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.8"
         },
         "runtime": {
-          "InfraEstrutura.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "InfraEstrutura.dll": {}
         }
       },
       "Interface/1.0.0": {
@@ -705,10 +699,7 @@
           "Dominio": "1.0.0"
         },
         "runtime": {
-          "Interface.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Interface.dll": {}
         }
       },
       "Service/1.0.0": {
@@ -717,10 +708,7 @@
           "Interface": "1.0.0"
         },
         "runtime": {
-          "Service.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Service.dll": {}
         }
       }
     }
