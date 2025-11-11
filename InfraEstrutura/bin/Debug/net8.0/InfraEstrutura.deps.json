@@ -1043,7 +1043,10 @@
       },
       "Dominio/1.0.0": {
         "runtime": {
-          "Dominio.dll": {}
+          "Dominio.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Interface/1.0.0": {
@@ -1051,7 +1054,10 @@
           "Dominio": "1.0.0"
         },
         "runtime": {
-          "Interface.dll": {}
+          "Interface.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

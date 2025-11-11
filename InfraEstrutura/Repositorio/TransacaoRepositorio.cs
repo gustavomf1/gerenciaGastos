@@ -61,5 +61,17 @@ namespace InfraEstrutura.Repositorio
                 await contexto.SaveChangesAsync();
             }
         }
+
+        public async Task<IEnumerable<object>> GetTotalPorCategoriaAsync()
+        {
+            return await contexto.Transacoes
+                .GroupBy(t => t.Categoria.Descricao)
+                .Select(g => new
+                {
+                    Categoria = g.Key,
+                    Total = g.Sum(x => x.Valor)
+                })
+                .ToListAsync();
+        }
     }
 }

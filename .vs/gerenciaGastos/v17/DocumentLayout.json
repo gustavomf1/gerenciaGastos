@@ -3,28 +3,84 @@
   "WorkspaceRootPath": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ACB2BAD8-55D8-45E0-A90F-6CAAA90A368C}|gerenciaGastos\\gerenciaGastos.csproj|c:\\users\\gustavo\\documents\\projeto gastos\\gerenciagastos\\gerenciagastos\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACB2BAD8-55D8-45E0-A90F-6CAAA90A368C}|gerenciaGastos\\gerenciaGastos.csproj|solutionrelative:gerenciagastos\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB2BAD8-55D8-45E0-A90F-6CAAA90A368C}|gerenciaGastos\\gerenciaGastos.csproj|c:\\users\\gustavo\\documents\\projeto gastos\\gerenciagastos\\gerenciagastos\\controllers\\orcamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACB2BAD8-55D8-45E0-A90F-6CAAA90A368C}|gerenciaGastos\\gerenciaGastos.csproj|solutionrelative:gerenciagastos\\controllers\\orcamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB2BAD8-55D8-45E0-A90F-6CAAA90A368C}|gerenciaGastos\\gerenciaGastos.csproj|c:\\users\\gustavo\\documents\\projeto gastos\\gerenciagastos\\gerenciagastos\\controllers\\segurancacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACB2BAD8-55D8-45E0-A90F-6CAAA90A368C}|gerenciaGastos\\gerenciaGastos.csproj|solutionrelative:gerenciagastos\\controllers\\segurancacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB2BAD8-55D8-45E0-A90F-6CAAA90A368C}|gerenciaGastos\\gerenciaGastos.csproj|c:\\users\\gustavo\\documents\\projeto gastos\\gerenciagastos\\gerenciagastos\\controllers\\transacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACB2BAD8-55D8-45E0-A90F-6CAAA90A368C}|gerenciaGastos\\gerenciaGastos.csproj|solutionrelative:gerenciagastos\\controllers\\transacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB2BAD8-55D8-45E0-A90F-6CAAA90A368C}|gerenciaGastos\\gerenciaGastos.csproj|c:\\users\\gustavo\\documents\\projeto gastos\\gerenciagastos\\gerenciagastos\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACB2BAD8-55D8-45E0-A90F-6CAAA90A368C}|gerenciaGastos\\gerenciaGastos.csproj|solutionrelative:gerenciagastos\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9144F2C6-E2BA-4111-BA97-E8B8BD5C69E5}|Service\\Service.csproj|c:\\users\\gustavo\\documents\\projeto gastos\\gerenciagastos\\service\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9144F2C6-E2BA-4111-BA97-E8B8BD5C69E5}|Service\\Service.csproj|solutionrelative:service\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9144F2C6-E2BA-4111-BA97-E8B8BD5C69E5}|Service\\Service.csproj|c:\\users\\gustavo\\documents\\projeto gastos\\gerenciagastos\\service\\orcamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9144F2C6-E2BA-4111-BA97-E8B8BD5C69E5}|Service\\Service.csproj|solutionrelative:service\\orcamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9144F2C6-E2BA-4111-BA97-E8B8BD5C69E5}|Service\\Service.csproj|c:\\users\\gustavo\\documents\\projeto gastos\\gerenciagastos\\service\\transacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9144F2C6-E2BA-4111-BA97-E8B8BD5C69E5}|Service\\Service.csproj|solutionrelative:service\\transacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78F7F07A-EAD7-494D-9BFB-B3161507399B}|Dominio\\Dominio.csproj|c:\\users\\gustavo\\documents\\projeto gastos\\gerenciagastos\\dominio\\enum\\tipotransacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78F7F07A-EAD7-494D-9BFB-B3161507399B}|Dominio\\Dominio.csproj|solutionrelative:dominio\\enum\\tipotransacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9144F2C6-E2BA-4111-BA97-E8B8BD5C69E5}|Service\\Service.csproj|c:\\users\\gustavo\\documents\\projeto gastos\\gerenciagastos\\service\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9144F2C6-E2BA-4111-BA97-E8B8BD5C69E5}|Service\\Service.csproj|solutionrelative:service\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68CA4198-E825-4427-AAEE-3EF747622165}|InfraEstrutura\\InfraEstrutura.csproj|c:\\users\\gustavo\\documents\\projeto gastos\\gerenciagastos\\infraestrutura\\repositorio\\transacaorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68CA4198-E825-4427-AAEE-3EF747622165}|InfraEstrutura\\InfraEstrutura.csproj|solutionrelative:infraestrutura\\repositorio\\transacaorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\InfraEstrutura\\Migrations\\20251110235629_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InfraEstrutura\\Migrations\\20251110235629_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8088A66-0CF9-4562-96A4-630190FD489B}|Interface\\Interface.csproj|c:\\users\\gustavo\\documents\\projeto gastos\\gerenciagastos\\interface\\repositorio\\itransacaorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8088A66-0CF9-4562-96A4-630190FD489B}|Interface\\Interface.csproj|solutionrelative:interface\\repositorio\\itransacaorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68CA4198-E825-4427-AAEE-3EF747622165}|InfraEstrutura\\InfraEstrutura.csproj|c:\\users\\gustavo\\documents\\projeto gastos\\gerenciagastos\\infraestrutura\\data\\contextogastosfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CA4198-E825-4427-AAEE-3EF747622165}|InfraEstrutura\\InfraEstrutura.csproj|solutionrelative:infraestrutura\\data\\contextogastosfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CA4198-E825-4427-AAEE-3EF747622165}|InfraEstrutura\\InfraEstrutura.csproj|c:\\users\\gustavo\\documents\\projeto gastos\\gerenciagastos\\infraestrutura\\data\\gastoscontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CA4198-E825-4427-AAEE-3EF747622165}|InfraEstrutura\\InfraEstrutura.csproj|solutionrelative:infraestrutura\\data\\gastoscontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB2BAD8-55D8-45E0-A90F-6CAAA90A368C}|gerenciaGastos\\gerenciaGastos.csproj|c:\\users\\gustavo\\documents\\projeto gastos\\gerenciagastos\\gerenciagastos\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACB2BAD8-55D8-45E0-A90F-6CAAA90A368C}|gerenciaGastos\\gerenciaGastos.csproj|solutionrelative:gerenciagastos\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F7F07A-EAD7-494D-9BFB-B3161507399B}|Dominio\\Dominio.csproj|c:\\users\\gustavo\\documents\\projeto gastos\\gerenciagastos\\dominio\\dtos\\resumocategoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F7F07A-EAD7-494D-9BFB-B3161507399B}|Dominio\\Dominio.csproj|solutionrelative:dominio\\dtos\\resumocategoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D8088A66-0CF9-4562-96A4-630190FD489B}|Interface\\Interface.csproj|c:\\users\\gustavo\\documents\\projeto gastos\\gerenciagastos\\interface\\service\\itransacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8088A66-0CF9-4562-96A4-630190FD489B}|Interface\\Interface.csproj|solutionrelative:interface\\service\\itransacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACB2BAD8-55D8-45E0-A90F-6CAAA90A368C}|gerenciaGastos\\gerenciaGastos.csproj|c:\\users\\gustavo\\documents\\projeto gastos\\gerenciagastos\\gerenciagastos\\controllers\\transacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACB2BAD8-55D8-45E0-A90F-6CAAA90A368C}|gerenciaGastos\\gerenciaGastos.csproj|solutionrelative:gerenciagastos\\controllers\\transacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D8088A66-0CF9-4562-96A4-630190FD489B}|Interface\\Interface.csproj|c:\\users\\gustavo\\documents\\projeto gastos\\gerenciagastos\\interface\\repositorio\\itransacaorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8088A66-0CF9-4562-96A4-630190FD489B}|Interface\\Interface.csproj|solutionrelative:interface\\repositorio\\itransacaorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CA4198-E825-4427-AAEE-3EF747622165}|InfraEstrutura\\InfraEstrutura.csproj|c:\\users\\gustavo\\documents\\projeto gastos\\gerenciagastos\\infraestrutura\\repositorio\\transacaorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CA4198-E825-4427-AAEE-3EF747622165}|InfraEstrutura\\InfraEstrutura.csproj|solutionrelative:infraestrutura\\repositorio\\transacaorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F7F07A-EAD7-494D-9BFB-B3161507399B}|Dominio\\Dominio.csproj|c:\\users\\gustavo\\documents\\projeto gastos\\gerenciagastos\\dominio\\dtos\\resumomensaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F7F07A-EAD7-494D-9BFB-B3161507399B}|Dominio\\Dominio.csproj|solutionrelative:dominio\\dtos\\resumomensaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F7F07A-EAD7-494D-9BFB-B3161507399B}|Dominio\\Dominio.csproj|c:\\users\\gustavo\\documents\\projeto gastos\\gerenciagastos\\dominio\\dtos\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F7F07A-EAD7-494D-9BFB-B3161507399B}|Dominio\\Dominio.csproj|solutionrelative:dominio\\dtos\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F7F07A-EAD7-494D-9BFB-B3161507399B}|Dominio\\Dominio.csproj|c:\\users\\gustavo\\documents\\projeto gastos\\gerenciagastos\\dominio\\enum\\tipotransacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F7F07A-EAD7-494D-9BFB-B3161507399B}|Dominio\\Dominio.csproj|solutionrelative:dominio\\enum\\tipotransacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{78F7F07A-EAD7-494D-9BFB-B3161507399B}|Dominio\\Dominio.csproj|c:\\users\\gustavo\\documents\\projeto gastos\\gerenciagastos\\dominio\\dtos\\transacaoresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,10 +93,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{ACB2BAD8-55D8-45E0-A90F-6CAAA90A368C}|gerenciaGastos\\gerenciaGastos.csproj|c:\\users\\gustavo\\documents\\projeto gastos\\gerenciagastos\\gerenciagastos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACB2BAD8-55D8-45E0-A90F-6CAAA90A368C}|gerenciaGastos\\gerenciaGastos.csproj|solutionrelative:gerenciagastos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACB2BAD8-55D8-45E0-A90F-6CAAA90A368C}|gerenciaGastos\\gerenciaGastos.csproj|c:\\users\\gustavo\\documents\\projeto gastos\\gerenciagastos\\gerenciagastos\\controllers\\orcamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACB2BAD8-55D8-45E0-A90F-6CAAA90A368C}|gerenciaGastos\\gerenciaGastos.csproj|solutionrelative:gerenciagastos\\controllers\\orcamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\InfraEstrutura\\Migrations\\20250922174059_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,10 +109,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D8088A66-0CF9-4562-96A4-630190FD489B}|Interface\\Interface.csproj|c:\\users\\gustavo\\documents\\projeto gastos\\gerenciagastos\\interface\\repositorio\\iorcamentorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8088A66-0CF9-4562-96A4-630190FD489B}|Interface\\Interface.csproj|solutionrelative:interface\\repositorio\\iorcamentorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACB2BAD8-55D8-45E0-A90F-6CAAA90A368C}|gerenciaGastos\\gerenciaGastos.csproj|c:\\users\\gustavo\\documents\\projeto gastos\\gerenciagastos\\gerenciagastos\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACB2BAD8-55D8-45E0-A90F-6CAAA90A368C}|gerenciaGastos\\gerenciaGastos.csproj|solutionrelative:gerenciagastos\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{78F7F07A-EAD7-494D-9BFB-B3161507399B}|Dominio\\Dominio.csproj|c:\\users\\gustavo\\documents\\projeto gastos\\gerenciagastos\\dominio\\dtos\\transacaoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -83,28 +131,8 @@
       "RelativeMoniker": "D:0:0:{78F7F07A-EAD7-494D-9BFB-B3161507399B}|Dominio\\Dominio.csproj|solutionrelative:dominio\\dtos\\orcamentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACB2BAD8-55D8-45E0-A90F-6CAAA90A368C}|gerenciaGastos\\gerenciaGastos.csproj|c:\\users\\gustavo\\documents\\projeto gastos\\gerenciagastos\\gerenciagastos\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACB2BAD8-55D8-45E0-A90F-6CAAA90A368C}|gerenciaGastos\\gerenciaGastos.csproj|solutionrelative:gerenciagastos\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACB2BAD8-55D8-45E0-A90F-6CAAA90A368C}|gerenciaGastos\\gerenciaGastos.csproj|c:\\users\\gustavo\\documents\\projeto gastos\\gerenciagastos\\gerenciagastos\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACB2BAD8-55D8-45E0-A90F-6CAAA90A368C}|gerenciaGastos\\gerenciaGastos.csproj|solutionrelative:gerenciagastos\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{68CA4198-E825-4427-AAEE-3EF747622165}|InfraEstrutura\\InfraEstrutura.csproj|c:\\users\\gustavo\\documents\\projeto gastos\\gerenciagastos\\infraestrutura\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68CA4198-E825-4427-AAEE-3EF747622165}|InfraEstrutura\\InfraEstrutura.csproj|solutionrelative:infraestrutura\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9144F2C6-E2BA-4111-BA97-E8B8BD5C69E5}|Service\\Service.csproj|c:\\users\\gustavo\\documents\\projeto gastos\\gerenciagastos\\service\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9144F2C6-E2BA-4111-BA97-E8B8BD5C69E5}|Service\\Service.csproj|solutionrelative:service\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9144F2C6-E2BA-4111-BA97-E8B8BD5C69E5}|Service\\Service.csproj|c:\\users\\gustavo\\documents\\projeto gastos\\gerenciagastos\\service\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9144F2C6-E2BA-4111-BA97-E8B8BD5C69E5}|Service\\Service.csproj|solutionrelative:service\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78F7F07A-EAD7-494D-9BFB-B3161507399B}|Dominio\\Dominio.csproj|c:\\users\\gustavo\\documents\\projeto gastos\\gerenciagastos\\dominio\\dtos\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78F7F07A-EAD7-494D-9BFB-B3161507399B}|Dominio\\Dominio.csproj|solutionrelative:dominio\\dtos\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{78F7F07A-EAD7-494D-9BFB-B3161507399B}|Dominio\\Dominio.csproj|c:\\users\\gustavo\\documents\\projeto gastos\\gerenciagastos\\dominio\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -140,10 +168,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\InfraEstrutura\\Migrations\\20250908131214_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68CA4198-E825-4427-AAEE-3EF747622165}|InfraEstrutura\\InfraEstrutura.csproj|c:\\users\\gustavo\\documents\\projeto gastos\\gerenciagastos\\infraestrutura\\data\\gastoscontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68CA4198-E825-4427-AAEE-3EF747622165}|InfraEstrutura\\InfraEstrutura.csproj|solutionrelative:infraestrutura\\data\\gastoscontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -153,7 +177,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -161,241 +185,163 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Service\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Service\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Service\\UsuarioService.cs",
+              "RelativeToolTip": "Service\\UsuarioService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T14:09:30.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "TransacaoService.cs",
               "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Service\\TransacaoService.cs",
               "RelativeDocumentMoniker": "Service\\TransacaoService.cs",
               "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Service\\TransacaoService.cs",
               "RelativeToolTip": "Service\\TransacaoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAUwA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-22T17:26:57.499Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ITransacaoService.cs",
-              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Interface\\Service\\ITransacaoService.cs",
-              "RelativeDocumentMoniker": "Interface\\Service\\ITransacaoService.cs",
-              "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Interface\\Service\\ITransacaoService.cs",
-              "RelativeToolTip": "Interface\\Service\\ITransacaoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T17:25:06.789Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "TransacaoResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Dominio\\Dtos\\TransacaoResponseDto.cs",
-              "RelativeDocumentMoniker": "Dominio\\Dtos\\TransacaoResponseDto.cs",
-              "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Dominio\\Dtos\\TransacaoResponseDto.cs",
-              "RelativeToolTip": "Dominio\\Dtos\\TransacaoResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAjAAAAAAAAAA==",
+              "Title": "OrcamentoService.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Service\\OrcamentoService.cs",
+              "RelativeDocumentMoniker": "Service\\OrcamentoService.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Service\\OrcamentoService.cs",
+              "RelativeToolTip": "Service\\OrcamentoService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwCYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T17:21:50.663Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "TransacaoUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Dominio\\Dtos\\TransacaoUpdateDto.cs",
-              "RelativeDocumentMoniker": "Dominio\\Dtos\\TransacaoUpdateDto.cs",
-              "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Dominio\\Dtos\\TransacaoUpdateDto.cs",
-              "RelativeToolTip": "Dominio\\Dtos\\TransacaoUpdateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T17:21:28.488Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TipoTransacao.cs",
-              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Dominio\\Enum\\TipoTransacao.cs",
-              "RelativeDocumentMoniker": "Dominio\\Enum\\TipoTransacao.cs",
-              "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Dominio\\Enum\\TipoTransacao.cs",
-              "RelativeToolTip": "Dominio\\Enum\\TipoTransacao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T17:25:06.997Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\gerenciaGastos\\Program.cs",
-              "RelativeDocumentMoniker": "gerenciaGastos\\Program.cs",
-              "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\gerenciaGastos\\Program.cs",
-              "RelativeToolTip": "gerenciaGastos\\Program.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T13:09:12.132Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TransacaoRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\InfraEstrutura\\Repositorio\\TransacaoRepositorio.cs",
-              "RelativeDocumentMoniker": "InfraEstrutura\\Repositorio\\TransacaoRepositorio.cs",
-              "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\InfraEstrutura\\Repositorio\\TransacaoRepositorio.cs",
-              "RelativeToolTip": "InfraEstrutura\\Repositorio\\TransacaoRepositorio.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAwwC4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T17:19:35.425Z",
+              "WhenOpened": "2025-11-10T23:07:26.683Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "CategoriaService.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Service\\CategoriaService.cs",
+              "RelativeDocumentMoniker": "Service\\CategoriaService.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Service\\CategoriaService.cs",
+              "RelativeToolTip": "Service\\CategoriaService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T13:03:44.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\gerenciaGastos\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "gerenciaGastos\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\gerenciaGastos\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "gerenciaGastos\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T14:12:24.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "TransacaoController.cs",
               "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\gerenciaGastos\\Controllers\\TransacaoController.cs",
               "RelativeDocumentMoniker": "gerenciaGastos\\Controllers\\TransacaoController.cs",
               "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\gerenciaGastos\\Controllers\\TransacaoController.cs",
               "RelativeToolTip": "gerenciaGastos\\Controllers\\TransacaoController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAqwDMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAA0wEgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-22T17:29:58.959Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ITransacaoRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Interface\\Repositorio\\ITransacaoRepositorio.cs",
-              "RelativeDocumentMoniker": "Interface\\Repositorio\\ITransacaoRepositorio.cs",
-              "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Interface\\Repositorio\\ITransacaoRepositorio.cs",
-              "RelativeToolTip": "Interface\\Repositorio\\ITransacaoRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "SegurancaController.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\gerenciaGastos\\Controllers\\SegurancaController.cs",
+              "RelativeDocumentMoniker": "gerenciaGastos\\Controllers\\SegurancaController.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\gerenciaGastos\\Controllers\\SegurancaController.cs",
+              "RelativeToolTip": "gerenciaGastos\\Controllers\\SegurancaController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwC4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T17:19:13.976Z",
+              "WhenOpened": "2025-11-10T23:42:25.778Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IOrcamentoRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Interface\\Repositorio\\IOrcamentoRepositorio.cs",
-              "RelativeDocumentMoniker": "Interface\\Repositorio\\IOrcamentoRepositorio.cs",
-              "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Interface\\Repositorio\\IOrcamentoRepositorio.cs",
-              "RelativeToolTip": "Interface\\Repositorio\\IOrcamentoRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T17:29:09.945Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "OrcamentoRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\InfraEstrutura\\Repositorio\\OrcamentoRepositorio.cs",
-              "RelativeDocumentMoniker": "InfraEstrutura\\Repositorio\\OrcamentoRepositorio.cs",
-              "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\InfraEstrutura\\Repositorio\\OrcamentoRepositorio.cs",
-              "RelativeToolTip": "InfraEstrutura\\Repositorio\\OrcamentoRepositorio.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAAC4AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T18:44:58.642Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "OrcamentoController.cs",
               "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\gerenciaGastos\\Controllers\\OrcamentoController.cs",
               "RelativeDocumentMoniker": "gerenciaGastos\\Controllers\\OrcamentoController.cs",
               "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\gerenciaGastos\\Controllers\\OrcamentoController.cs",
               "RelativeToolTip": "gerenciaGastos\\Controllers\\OrcamentoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-22T17:31:20.784Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CategoriaValidation.cs",
-              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\gerenciaGastos\\Validation\\CategoriaValidation.cs",
-              "RelativeDocumentMoniker": "gerenciaGastos\\Validation\\CategoriaValidation.cs",
-              "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\gerenciaGastos\\Validation\\CategoriaValidation.cs",
-              "RelativeToolTip": "gerenciaGastos\\Validation\\CategoriaValidation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\gerenciaGastos\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "gerenciaGastos\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\gerenciaGastos\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "gerenciaGastos\\Controllers\\CategoriaController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwFoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T17:32:37.32Z",
+              "WhenOpened": "2025-09-08T13:03:11.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20251110235629_first.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\InfraEstrutura\\Migrations\\20251110235629_first.cs",
+              "RelativeDocumentMoniker": "InfraEstrutura\\Migrations\\20251110235629_first.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\InfraEstrutura\\Migrations\\20251110235629_first.cs",
+              "RelativeToolTip": "InfraEstrutura\\Migrations\\20251110235629_first.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T23:56:29.89Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "TransacaoValidation.cs",
-              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\gerenciaGastos\\Validation\\TransacaoValidation.cs",
-              "RelativeDocumentMoniker": "gerenciaGastos\\Validation\\TransacaoValidation.cs",
-              "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\gerenciaGastos\\Validation\\TransacaoValidation.cs",
-              "RelativeToolTip": "gerenciaGastos\\Validation\\TransacaoValidation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Title": "GastosContexto.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\InfraEstrutura\\Data\\GastosContexto.cs",
+              "RelativeDocumentMoniker": "InfraEstrutura\\Data\\GastosContexto.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\InfraEstrutura\\Data\\GastosContexto.cs",
+              "RelativeToolTip": "InfraEstrutura\\Data\\GastosContexto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T17:33:19.559Z",
+              "WhenOpened": "2025-09-08T13:10:24.554Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "20250922174059_first.cs",
-              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\InfraEstrutura\\Migrations\\20250922174059_first.cs",
-              "RelativeDocumentMoniker": "InfraEstrutura\\Migrations\\20250922174059_first.cs",
-              "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\InfraEstrutura\\Migrations\\20250922174059_first.cs",
-              "RelativeToolTip": "InfraEstrutura\\Migrations\\20250922174059_first.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ContextoGastosFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\InfraEstrutura\\Data\\ContextoGastosFactory.cs",
+              "RelativeDocumentMoniker": "InfraEstrutura\\Data\\ContextoGastosFactory.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\InfraEstrutura\\Data\\ContextoGastosFactory.cs",
+              "RelativeToolTip": "InfraEstrutura\\Data\\ContextoGastosFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T17:41:00.055Z",
+              "WhenOpened": "2025-11-10T23:55:08.186Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "TransacaoCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Dominio\\Dtos\\TransacaoCreateDto.cs",
-              "RelativeDocumentMoniker": "Dominio\\Dtos\\TransacaoCreateDto.cs",
-              "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Dominio\\Dtos\\TransacaoCreateDto.cs",
-              "RelativeToolTip": "Dominio\\Dtos\\TransacaoCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T17:21:03.029Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "OrcamentoDto.cs",
-              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Dominio\\Dtos\\OrcamentoDto.cs",
-              "RelativeDocumentMoniker": "Dominio\\Dtos\\OrcamentoDto.cs",
-              "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Dominio\\Dtos\\OrcamentoDto.cs",
-              "RelativeToolTip": "Dominio\\Dtos\\OrcamentoDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T17:18:46.031Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "CategoriaRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\InfraEstrutura\\Repositorio\\CategoriaRepositorio.cs",
-              "RelativeDocumentMoniker": "InfraEstrutura\\Repositorio\\CategoriaRepositorio.cs",
-              "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\InfraEstrutura\\Repositorio\\CategoriaRepositorio.cs",
-              "RelativeToolTip": "InfraEstrutura\\Repositorio\\CategoriaRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T14:06:52.408Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\gerenciaGastos\\Mapping\\MappingProfile.cs",
               "RelativeDocumentMoniker": "gerenciaGastos\\Mapping\\MappingProfile.cs",
@@ -408,20 +354,229 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\gerenciaGastos\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "gerenciaGastos\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\gerenciaGastos\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "gerenciaGastos\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAADwvysAAAAsAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "ITransacaoService.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Interface\\Service\\ITransacaoService.cs",
+              "RelativeDocumentMoniker": "Interface\\Service\\ITransacaoService.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Interface\\Service\\ITransacaoService.cs",
+              "RelativeToolTip": "Interface\\Service\\ITransacaoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T14:12:24.295Z",
+              "WhenOpened": "2025-09-22T17:25:06.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ITransacaoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Interface\\Repositorio\\ITransacaoRepositorio.cs",
+              "RelativeDocumentMoniker": "Interface\\Repositorio\\ITransacaoRepositorio.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Interface\\Repositorio\\ITransacaoRepositorio.cs",
+              "RelativeToolTip": "Interface\\Repositorio\\ITransacaoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T17:19:13.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TransacaoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\InfraEstrutura\\Repositorio\\TransacaoRepositorio.cs",
+              "RelativeDocumentMoniker": "InfraEstrutura\\Repositorio\\TransacaoRepositorio.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\InfraEstrutura\\Repositorio\\TransacaoRepositorio.cs",
+              "RelativeToolTip": "InfraEstrutura\\Repositorio\\TransacaoRepositorio.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAkwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T17:19:35.425Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\gerenciaGastos\\Program.cs",
+              "RelativeDocumentMoniker": "gerenciaGastos\\Program.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\gerenciaGastos\\Program.cs",
+              "RelativeToolTip": "gerenciaGastos\\Program.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T13:09:12.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ResumoCategoriaDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Dominio\\Dtos\\ResumoCategoriaDto.cs",
+              "RelativeDocumentMoniker": "Dominio\\Dtos\\ResumoCategoriaDto.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Dominio\\Dtos\\ResumoCategoriaDto.cs",
+              "RelativeToolTip": "Dominio\\Dtos\\ResumoCategoriaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T23:11:07.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ResumoMensalDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Dominio\\Dtos\\ResumoMensalDto.cs",
+              "RelativeDocumentMoniker": "Dominio\\Dtos\\ResumoMensalDto.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Dominio\\Dtos\\ResumoMensalDto.cs",
+              "RelativeToolTip": "Dominio\\Dtos\\ResumoMensalDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T23:11:50.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TipoTransacao.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Dominio\\Enum\\TipoTransacao.cs",
+              "RelativeDocumentMoniker": "Dominio\\Enum\\TipoTransacao.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Dominio\\Enum\\TipoTransacao.cs",
+              "RelativeToolTip": "Dominio\\Enum\\TipoTransacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T17:25:06.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoriaDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Dominio\\Dtos\\CategoriaDto.cs",
+              "RelativeDocumentMoniker": "Dominio\\Dtos\\CategoriaDto.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Dominio\\Dtos\\CategoriaDto.cs",
+              "RelativeToolTip": "Dominio\\Dtos\\CategoriaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T13:14:42.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TransacaoUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Dominio\\Dtos\\TransacaoUpdateDto.cs",
+              "RelativeDocumentMoniker": "Dominio\\Dtos\\TransacaoUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Dominio\\Dtos\\TransacaoUpdateDto.cs",
+              "RelativeToolTip": "Dominio\\Dtos\\TransacaoUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T17:21:28.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TransacaoResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Dominio\\Dtos\\TransacaoResponseDto.cs",
+              "RelativeDocumentMoniker": "Dominio\\Dtos\\TransacaoResponseDto.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Dominio\\Dtos\\TransacaoResponseDto.cs",
+              "RelativeToolTip": "Dominio\\Dtos\\TransacaoResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T17:21:50.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IOrcamentoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Interface\\Repositorio\\IOrcamentoRepositorio.cs",
+              "RelativeDocumentMoniker": "Interface\\Repositorio\\IOrcamentoRepositorio.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Interface\\Repositorio\\IOrcamentoRepositorio.cs",
+              "RelativeToolTip": "Interface\\Repositorio\\IOrcamentoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T17:29:09.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrcamentoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\InfraEstrutura\\Repositorio\\OrcamentoRepositorio.cs",
+              "RelativeDocumentMoniker": "InfraEstrutura\\Repositorio\\OrcamentoRepositorio.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\InfraEstrutura\\Repositorio\\OrcamentoRepositorio.cs",
+              "RelativeToolTip": "InfraEstrutura\\Repositorio\\OrcamentoRepositorio.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAC4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T18:44:58.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CategoriaValidation.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\gerenciaGastos\\Validation\\CategoriaValidation.cs",
+              "RelativeDocumentMoniker": "gerenciaGastos\\Validation\\CategoriaValidation.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\gerenciaGastos\\Validation\\CategoriaValidation.cs",
+              "RelativeToolTip": "gerenciaGastos\\Validation\\CategoriaValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T17:32:37.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TransacaoValidation.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\gerenciaGastos\\Validation\\TransacaoValidation.cs",
+              "RelativeDocumentMoniker": "gerenciaGastos\\Validation\\TransacaoValidation.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\gerenciaGastos\\Validation\\TransacaoValidation.cs",
+              "RelativeToolTip": "gerenciaGastos\\Validation\\TransacaoValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T17:33:19.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250922174059_first.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\InfraEstrutura\\Migrations\\20250922174059_first.cs",
+              "RelativeDocumentMoniker": "InfraEstrutura\\Migrations\\20250922174059_first.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\InfraEstrutura\\Migrations\\20250922174059_first.cs",
+              "RelativeToolTip": "InfraEstrutura\\Migrations\\20250922174059_first.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T17:41:00.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TransacaoCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Dominio\\Dtos\\TransacaoCreateDto.cs",
+              "RelativeDocumentMoniker": "Dominio\\Dtos\\TransacaoCreateDto.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Dominio\\Dtos\\TransacaoCreateDto.cs",
+              "RelativeToolTip": "Dominio\\Dtos\\TransacaoCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T17:21:03.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OrcamentoDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Dominio\\Dtos\\OrcamentoDto.cs",
+              "RelativeDocumentMoniker": "Dominio\\Dtos\\OrcamentoDto.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Dominio\\Dtos\\OrcamentoDto.cs",
+              "RelativeToolTip": "Dominio\\Dtos\\OrcamentoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T17:18:46.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CategoriaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\InfraEstrutura\\Repositorio\\CategoriaRepositorio.cs",
+              "RelativeDocumentMoniker": "InfraEstrutura\\Repositorio\\CategoriaRepositorio.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\InfraEstrutura\\Repositorio\\CategoriaRepositorio.cs",
+              "RelativeToolTip": "InfraEstrutura\\Repositorio\\CategoriaRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T14:06:52.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "UsuarioRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\InfraEstrutura\\Repositorio\\UsuarioRepositorio.cs",
               "RelativeDocumentMoniker": "InfraEstrutura\\Repositorio\\UsuarioRepositorio.cs",
@@ -433,7 +588,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 33,
               "Title": "UsuarioDto.cs",
               "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Dominio\\Dtos\\UsuarioDto.cs",
               "RelativeDocumentMoniker": "Dominio\\Dtos\\UsuarioDto.cs",
@@ -445,19 +600,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "CategoriaDto.cs",
-              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Dominio\\Dtos\\CategoriaDto.cs",
-              "RelativeDocumentMoniker": "Dominio\\Dtos\\CategoriaDto.cs",
-              "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Dominio\\Dtos\\CategoriaDto.cs",
-              "RelativeToolTip": "Dominio\\Dtos\\CategoriaDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T13:14:42.007Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 30,
               "Title": "ICategoriaRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Interface\\Repositorio\\ICategoriaRepositorio.cs",
               "RelativeDocumentMoniker": "Interface\\Repositorio\\ICategoriaRepositorio.cs",
@@ -465,36 +608,11 @@
               "RelativeToolTip": "Interface\\Repositorio\\ICategoriaRepositorio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T13:56:56.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-08T13:56:56.105Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "UsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Service\\UsuarioService.cs",
-              "RelativeDocumentMoniker": "Service\\UsuarioService.cs",
-              "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Service\\UsuarioService.cs",
-              "RelativeToolTip": "Service\\UsuarioService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T14:09:30.469Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "GastosContexto.cs",
-              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\InfraEstrutura\\Data\\GastosContexto.cs",
-              "RelativeDocumentMoniker": "InfraEstrutura\\Data\\GastosContexto.cs",
-              "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\InfraEstrutura\\Data\\GastosContexto.cs",
-              "RelativeToolTip": "InfraEstrutura\\Data\\GastosContexto.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAmwC4AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T13:10:24.554Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 37,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Dominio\\Entidades\\Usuario.cs",
               "RelativeDocumentMoniker": "Dominio\\Entidades\\Usuario.cs",
@@ -506,19 +624,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "CategoriaController.cs",
-              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\gerenciaGastos\\Controllers\\CategoriaController.cs",
-              "RelativeDocumentMoniker": "gerenciaGastos\\Controllers\\CategoriaController.cs",
-              "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\gerenciaGastos\\Controllers\\CategoriaController.cs",
-              "RelativeToolTip": "gerenciaGastos\\Controllers\\CategoriaController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAYwCgAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T13:03:11.533Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 38,
               "Title": "IUsuarioRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Interface\\Repositorio\\IUsuarioRepositorio.cs",
               "RelativeDocumentMoniker": "Interface\\Repositorio\\IUsuarioRepositorio.cs",
@@ -530,19 +636,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "CategoriaService.cs",
-              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Service\\CategoriaService.cs",
-              "RelativeDocumentMoniker": "Service\\CategoriaService.cs",
-              "ToolTip": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Service\\CategoriaService.cs",
-              "RelativeToolTip": "Service\\CategoriaService.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowDUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T13:03:44.069Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 36,
               "Title": "ICategoriaService.cs",
               "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Interface\\Service\\ICategoriaService.cs",
               "RelativeDocumentMoniker": "Interface\\Service\\ICategoriaService.cs",
@@ -554,7 +648,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 34,
               "Title": "Categoria.cs",
               "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Dominio\\Entidades\\Categoria.cs",
               "RelativeDocumentMoniker": "Dominio\\Entidades\\Categoria.cs",
@@ -566,7 +660,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 35,
               "Title": "IUsuarioService.cs",
               "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Interface\\Service\\IUsuarioService.cs",
               "RelativeDocumentMoniker": "Interface\\Service\\IUsuarioService.cs",
@@ -578,7 +672,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 41,
               "Title": "20250908131214_first.cs",
               "DocumentMoniker": "C:\\Users\\Gustavo\\source\\repos\\gerenciaGastos\\InfraEstrutura\\Migrations\\20250908131214_first.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gerenciaGastos\\InfraEstrutura\\Migrations\\20250908131214_first.cs",
@@ -590,7 +684,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 39,
               "Title": "Orcamento.cs",
               "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Dominio\\Entidades\\Orcamento.cs",
               "RelativeDocumentMoniker": "Dominio\\Entidades\\Orcamento.cs",
@@ -602,7 +696,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 40,
               "Title": "Transacao.cs",
               "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\PROJETO GASTOS\\gerenciaGastos\\Dominio\\Entidades\\Transacao.cs",
               "RelativeDocumentMoniker": "Dominio\\Entidades\\Transacao.cs",

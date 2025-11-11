@@ -14,5 +14,9 @@ namespace Interface.Service
         Task<TransacaoResponseDto> CreateAsync(TransacaoCreateDto dto);
         Task UpdateAsync(TransacaoUpdateDto dto);
         Task DeleteAsync(int id);
+
+        Task<IEnumerable<TransacaoResponseDto>> GetByPeriodoAsync(DateTime start, DateTime end);
+        Task<IEnumerable<ResumoCategoriaDto>> GetResumoPorCategoriaAsync(DateTime start, DateTime end);
+        Task<IEnumerable<ResumoMensalDto>> GetResumoMensalAsync(int ano);
     }
 }

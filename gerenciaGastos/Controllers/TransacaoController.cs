@@ -69,5 +69,17 @@ namespace gerenciaGastos.Controllers
             await service.DeleteAsync(id);
             return NoContent();
         }
+
+        [HttpGet("por-categoria")]
+        public async Task<IActionResult> GetTotalPorCategoria(
+            [FromQuery] DateTime? start = null,
+            [FromQuery] DateTime? end = null)
+        {
+            start ??= DateTime.Now.AddMonths(-1);
+            end ??= DateTime.Now;
+
+            var dados = await service.GetResumoPorCategoriaAsync(start.Value, end.Value);
+            return Ok(dados);
+        }
     }
 }

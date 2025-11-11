@@ -14,5 +14,7 @@ namespace Interface.Repositorio
         Task AddAsync(Transacao transacao);
         Task UpdateAsync(Transacao transacao);
         Task DeleteAsync(int id);
+
+        Task<IEnumerable<object>> GetTotalPorCategoriaAsync();
     }
 }

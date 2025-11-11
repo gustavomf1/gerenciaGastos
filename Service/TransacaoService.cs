@@ -104,5 +104,50 @@ namespace Service
                 orcamento.ValorAtual -= multiplicador * transacao.Valor;
             }
         }
+
+        public async Task<IEnumerable<TransacaoResponseDto>> GetByPeriodoAsync(DateTime start, DateTime end)
+        {
+            var todas = await _repositorio.GetAllAsync();
+            var filtradas = todas.Where(t => t.Data.Date >= start.Date && t.Data.Date <= end.Date);
+            return _mapper.Map<IEnumerable<TransacaoResponseDto>>(filtradas);
+        }
+
+        public async Task<IEnumerable<ResumoCategoriaDto>> GetResumoPorCategoriaAsync(DateTime start, DateTime end)
+        {
+            var todas = await _repositorio.GetAllAsync();
+            var filtradas = todas.Where(t => t.Data.Date >= start.Date && t.Data.Date <= end.Date);
+
+            var resumo = filtradas
+                 .GroupBy(t => t.Categoria != null ? t.Categoria.Descricao : "Sem categoria")
+                 .Select(g => new ResumoCategoriaDto
+                 {
+                     Categoria = g.Key,
+                     Total = g.Sum(x => x.Tipo == TipoTransacao.Receita ? x.Valor : -x.Valor),
+                     Count = g.Count()
+                 })
+                 .OrderByDescending(r => r.Total);
+
+            return resumo;
+        }
+
+        public async Task<IEnumerable<ResumoMensalDto>> GetResumoMensalAsync(int ano)
+        {
+            var todas = await _repositorio.GetAllAsync();
+            var filtradas = todas.Where(t => t.Data.Year == ano);
+
+            var mensal = Enumerable.Range(1, 12)
+                .Select(m =>
+                {
+                    var porMes = filtradas.Where(t => t.Data.Month == m);
+                    return new ResumoMensalDto
+                    {
+                        Mes = m,
+                        TotalReceitas = porMes.Where(t => t.Tipo == TipoTransacao.Receita).Sum(t => t.Valor),
+                        TotalDespesas = porMes.Where(t => t.Tipo == TipoTransacao.Despesa).Sum(t => t.Valor)
+                    };
+                });
+
+            return mensal;
+        }
     }
 }
